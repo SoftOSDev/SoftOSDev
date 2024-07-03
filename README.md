@@ -3,7 +3,7 @@
 👦 `HTML / C++` Developer\
 📝 The only way to do `great` is to `love` what you do.
 
-邮箱: [lingyun091015@outlook.com](mailto:lingyun091015@outlook.com)
+邮箱: [hxh7197@huaxihao.eu.org](mailto:hxh7197@huaxihao.eu.org)
 
 ---
 
@@ -11,7 +11,6 @@
  - https://huaxihao.eu.org
  - https://handing.eu.org
  - https://scratch.eu.org
-   
 ---
 
 # Skills
