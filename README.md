@@ -21,5 +21,4 @@
 
 # Github 提交统计
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoftOSDev&show_icons=true)\
-\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.7&count_weight=0.7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftOSDev&layout=donut)
