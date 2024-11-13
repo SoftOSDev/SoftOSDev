@@ -15,7 +15,7 @@
 
 # Skills
 
-![Skills](https://skillicons.dev/icons?i=html,css,less,javascript,vue,markdown,nodejs,npm,python,sqlite,git,vscode,visualstudio,github,githubactions,windows,linux&perline=18)
+![Skills](https://boris-hua.com.mp/static/svg/skillPc.svg)
 
 ---
 
