@@ -8,9 +8,9 @@
 ---
 
 # WebSite
- - https://huaxihao.eu.org
+ - https://borisy.bar
+ - https://mc.borisy.bar
  - https://handing.eu.org
- - https://scratch.eu.org
 ---
 
 # Skills
