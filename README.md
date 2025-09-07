@@ -9,16 +9,16 @@
 
 # WebSite
  - https://borisy.bar
- - https://mc.borisy.bar
- - https://handing.eu.org
+ - https://is-an.gay
+ - https://nashorn.online
 ---
 
 # Skills
 
-![Skills](https://boris-hua.com.mp/static/svg/skillPc.svg)
+![Skills](https://borisy.bar/static/svg/skillPc.svg)
 
 ---
 
 # Github 提交统计
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoftOSDev&show_icons=true)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftOSDev&layout=donut)
+![Softosdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=softosdev\&rank_icon=percentile\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&locale=cn)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftOSDev&layout=donut\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&locale=cn)\
