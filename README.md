@@ -1,4 +1,4 @@
-# Hello, I'm SoftOSDev
+# <img width="1136" height="416" alt="hello" src="https://github.com/user-attachments/assets/c7190364-25dc-4734-a217-18cd33d530fc" />
 
 👦 `HTML / C++` Developer\
 📝 The only way to do `great` is to `love` what you do.
