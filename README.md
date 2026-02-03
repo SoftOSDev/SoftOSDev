@@ -8,7 +8,8 @@
 ---
 
 # WebSite
- - https://borisy.bar
+ - https://l-w.top
+ - https://prismmc.top
  - https://is-an.gay
  - https://nashorn.online
 ---
